@@ -121,19 +121,19 @@ VITE_WEATHER_API_KEY=your_api_key_here
 ![Login](./screenshots/login.png)
 
 ### 🌾 Crop Recommendation Page
-![Crop Recommendation](./screenshots/crop.png)
+![Crop Recommendation](./Screenshots/crop.png)
 
 ### 📊 Crop Result Page
-![Crop Result](./screenshots/crop_result.png)
+![Crop Result](./Screenshots/crop_result.png)
 
 ### 🧪 Fertilizer Recommendation Page
-![Fertilizer](./screenshots/fertilizer.png)
+![Fertilizer](./Screenshots/fertilizer.png)
 
 ### 🌿 Fertilizer Result Page
-![Fertilizer Result](./screenshots/fertilizer_result.png)
+![Fertilizer Result](./Screenshots/fertilizer_result.png)
 
 ### 🌦 Weather Dashboard
-![Weather](./screenshots/weather.png)
+![Weather](./Screenshots/weather.png)
 
 ### 📈 Mandi Price Finder
 ![Mandi](./screenshots/mandi.png)
