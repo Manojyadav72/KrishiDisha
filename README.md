@@ -112,10 +112,10 @@ VITE_WEATHER_API_KEY=your_api_key_here
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshots/home.png)
+![Home](./Screenshots/home.png)
 
 ### 🔐 Signup Page
-![Signup](./screenshots/signup.png)
+![Signup](./Screenshots/signup.png)
 
 ### 🔑 Login Page
 ![Login](./screenshots/login.png)
